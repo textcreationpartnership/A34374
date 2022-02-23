@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Continuation of news from that part of His Majesties fleet that now lies at High-Lake near Chester giving an impartial account of all considerable occurrences since its leaving Harwich to this present time.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34374</idno>
+            <idno type="STC">Wing C5958</idno>
+            <idno type="STC">ESTC P198</idno>
+            <idno type="EEBO-CITATION">11882944</idno>
+            <idno type="OCLC">ocm 11882944</idno>
+            <idno type="VID">50340</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34374)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50340)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 23:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Continuation of news from that part of His Majesties fleet that now lies at High-Lake near Chester giving an impartial account of all considerable occurrences since its leaving Harwich to this present time.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Dunton ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed Aug. 20, 1689. J.F."</note>
+                  <note>At head of letter: From on board the Hannibal, Aug. 14, 1689.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Sources.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title">
+            <pb n="2" facs="tcp:50340:1"/>
+            <p>Numb. 2. <hi>A Continuation of News</hi> From that part of His Majeſties Fleet That now lies at <hi>HIGH-LAKE</hi> near <hi>CHESTER:</hi> Giving an Impartial Account of all conſiderable Occurrences ſince its leaving <hi>Harwich,</hi> to this preſent time.</p>
+            <div type="license">
+               <p>Licenſed, <hi>Aug. 20. 1689.</hi>
+               </p>
+               <closer>
+                  <signed>J. F.</signed>
+               </closer>
+            </div>
+         </div>
+      </front>
+      <body>
+         <div type="newsbook">
+            <opener>
+               <dateline>From on Board the <hi>Hannibal,</hi> 
+                  <date>Aug. 14. 1689.</date>
+               </dateline>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IN continuance of my Advice, theſe are to in<g ref="char:EOLhyphen"/>form you, That on <hi>Saturday</hi> the 3<hi rend="sup">d</hi> of <hi>Auguſt,</hi> we weighed at three in the morning, and ſtood out from <hi>Ouſely</hi> Bay, the Wind weſterly. About Ten we got into the <hi>Downs;</hi> and diſcovered on to the Leeward, the <hi>High-Land</hi> of <hi>France,</hi> and the <hi>Good<g ref="char:EOLhyphen"/>win.</hi> About Two in the afternoon we came to an Anchor before <hi>Deal,</hi> where we diſcovered off of the Foreland two ſmall Veſſels, which appear'd to be ſome that went before, and promis'd to meet us in <hi>Dover</hi> Road. The Captain of one of them came aboard about Three, and brought us News that a little Dutch Pri<g ref="char:EOLhyphen"/>vateer had that ſame week brought Eleven Prizes into this place; ſome pretended Hamburgers, one Iriſh, but all freighted with French Goods.</p>
+            <p>About Five the Purſer went aſhore for freſh pro<g ref="char:EOLhyphen"/>viſions. The Captain intended to ſail again the ſame night for <hi>Dover,</hi> and toward the <hi>Iſle of Wight:</hi> He fired the Gun accordingly, preparing to ſtand away, ſeveral of the Fleet being already under ſail. But while we ſtaid for the Purſer, the Wind chopt about more to the weſterly; on which he chang'd his Reſolution, and moor'd in <hi>Deal</hi> Road.</p>
+            <p>
+               <hi>Saturday</hi> the 4th. the Wind continued ſtill at the ſame points, or rather came about more ſoutherly: So we were forc'd to ſtay here all day.</p>
+            <p>After Evening Service, came up the brave Captain <hi>Pottinger,</hi> in his little <hi>Fantau,</hi> which we ſo long want<g ref="char:EOLhyphen"/>ed; who came aboard us, and gave us an account that the <hi>Dragon</hi> Sloop lies yet about <hi>Graveſend</hi> or the <hi>Hope,</hi> and ſtays for Orders.</p>
+            <p>Here we firſt heard the News that the <hi>Toulon</hi> Squa<g ref="char:EOLhyphen"/>dron of French Men of War was got into <hi>Breſt.</hi> And the pretty paſſage of the great <hi>Galeon,</hi> one of the richeſt Laden of all the Spaniſh Fleet, then homeward bound, which being ſeparated from the reſt, put into a little Creek juſt at that Inſtant that the French went by; and being juſt got in, diſcovered them; on which, you'll believe, ſhe lay very cloſe, till they all paſt by without ſeeing her, and ſo the prey got out of their clutches, and they got ſafe into their own Harbour.</p>
+            <p>
+               <hi>Monday</hi> morning <hi>Auguſt</hi> 5. at Two a Clock, we had a fair Eaſterly Wind came up, with which we ſet ſail from the Downs.</p>
+            <p>We hear here we are deſign'd, after we get to our Port at <hi>High-Lake</hi> by <hi>Cheſter,</hi> for <hi>Loughfoyl</hi> and <hi>Lon<g ref="char:EOLhyphen"/>don Derry;</hi> whence I hope to give you an account of more material paſſages, our Men being all as reſolv'd and chearful as ſo good a Cauſe can make 'em.</p>
+            <p>
+               <hi>Auguſt 14. High-Lake</hi> near <hi>Cheſter.</hi>
+            </p>
+            <p>Sir, You had heard ſooner from me according to promiſe, but that we toucht no where after we left <hi>Deal,</hi> till we came to an Anchor at our Port of <hi>High-Lake,</hi> and the Boat went away before I had finiſhed my laſt; ſo you've now two together.</p>
+            <p>
+               <hi>Auguſt</hi> 5. As I told you in my laſt, we ſet ſail from the <hi>Downs</hi> about Two in the morning, but after Din<g ref="char:EOLhyphen"/>ner, the Wind ſlackning, we were almoſt becalm'd, and ſo came to an Anchor in <hi>Dover</hi> Road over againſt <hi>Dover</hi> Caſtle.</p>
+            <p>Between 3 and 4 we ſaw a Gale coming; ſo weigh'd again, and by 8 in the morning <hi>Auguſt</hi> 6. rais'd the Iſle of <hi>Wight.</hi>
+            </p>
+            <p>About the ſame time we ſaw a Sail toward the Coaſt of <hi>France,</hi> and ſent off the <hi>Navy</hi> Yacht, one of our Hoys, and the <hi>Fantau</hi> to ſpeak with her, who about 10 came up with her, and found her an Oſtender, but loaden from <hi>Bourdeaux</hi> for <hi>Bruges</hi> with French Wines &amp; Brandy: They had been taken ſome days before off of the Lands end by a Dutch Privateer, who had put Four or Five of their Men aboard her. However, not knowing but 'twas a trick to get from us, we kept 'em till we came over againſt <hi>Plymouth,</hi> where meeting the
+<pb facs="tcp:50340:2"/> Privateer who took 'em, and they confirming what had before been ſaid, we turn'd her off <hi>for Plymouth,</hi> having before taken her in a Tow; but this happen<g ref="char:EOLhyphen"/>ed not till <hi>Friday Auguſt</hi> the 9th.</p>
+            <p>
+               <hi>Wedneſday Auguſt</hi> 7. We rais'd the Beak of <hi>Port<g ref="char:EOLhyphen"/>land,</hi> and the Shores of <hi>Dortſetſhire.</hi>
+            </p>
+            <p>
+               <hi>Thurſday</hi> morning. <hi>Auguſt</hi> 8. About 4 in the morning we ſaw two Sail to the Leeward and ſuſ<g ref="char:EOLhyphen"/>pected 'em French-men, they ſtill keeping off, and having no Colours out. About 7 Captain <hi>Pottinger,</hi> and Captain <hi>Pet.</hi> of the Navy Yacht came aboard, having the ſame apprehenſions. At 8 we ſpread our Colours on our Ancient Staff, and they not anſwering with theirs, we concluded without more adoe they were Enemies. We ſaw they were men of War, and Stout Ships ſo prepared for an engagement in earneſt. We gave the ſignal, and the Commanders came a<g ref="char:EOLhyphen"/>board. We ſtay'd our Cabins, cut down our Ham<g ref="char:EOLhyphen"/>macks, heav'd Cheſts over board, and the Seamen made all ready with the greateſt briskneſs and courage imaginable. And after having cleared our Ship, ſhot<g ref="char:EOLhyphen"/>ted all our Guns, nail'd down our Hatches, and done what's uſual in ſuch caſes, bore up towards ſome of our Fleet, who were run a head of us, and being with<g ref="char:EOLhyphen"/>out defence, would ſoon fall into the Enemies mouth. We haſt juſt got up our ſmall Arms, and every man to his Quarter, bearing away to 'em as faſt as all the Sail we could make wou'd carry us when they both lowr'd their Top-Sails, and put out Orange Colours on which our Seamen were all very Melancholy having loſt <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch a fair occaſion of trying their valour, when they <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ought they were now ſure of it beyond diſap<g ref="char:EOLhyphen"/>point<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nt. This happened about ſeven or eighth Leagurd to the Weſtward of <hi>Portland.</hi>
+            </p>
+            <p>The next morning we diſcovered another Sail a great way <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtern of us, after which we ſent two of our Catches<g ref="char:punc">▪</g> but ſhe out-ſail'd 'em both, came under our Lee, and lowr'd her Top-Sail, but did not care to ſpeak with us<g ref="char:punc">▪</g> On which we fir'd a Gun, and brought her under our Stern, with Trumpets ſounding and Drums beatin<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Which we anſwered with what Mu<g ref="char:EOLhyphen"/>ſick we had when they came up with us, they appear<g ref="char:EOLhyphen"/>ed to be a D<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> Privateer, with fourteen Guns, and ſix Petereero <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>d eighty two men. They gave us three Guns and a cheer which we returned, and ſo parted they told us <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>y were bound for <hi>the Sea,</hi> which was all the acco<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> we could get of 'em.</p>
+            <p>
+               <hi>Saturday</hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orning. <hi>Auguſt</hi> 10. One of our Catches took a ſmall Boat bound from <hi>France</hi> to <hi>Galloway</hi> in <hi>Ireland,</hi> loaden with Salt. He had been taken by the ſame Fluſhinger we met on <hi>Thurſday,</hi> who had taken the firſt, who had alſo ſome men aboard her. There were in her <hi>Engliſh, Dutch,</hi> and <hi>Iriſh.</hi> The <hi>Engliſhman</hi> (I think her Maſter) told us that he came from before <hi>Breſt</hi> ſome few days paſt, where he ſaw the <hi>French</hi> Fleet ready to leave it, about twenty already being got out of the Harbour: And ſay they were about ſeventy Sail. We let him go again, and doubled<g ref="char:punc">▪</g> the Lizzard point, and got into <hi>Mountsbay,</hi> and diſcovered the Mount about twelve at Noon.</p>
+            <p>In the afternoon as well as all the day before we heard ſeveral Broad-ſides, and a great many hundred Guns to the Coaſt of <hi>France.</hi> About four a Clock we heard a great blow the ſame way, and immediately after ſaw a huge Pile of ſmoak riſe from the place where we heard the blow. This was ſeen by moſt of our Fleet, and is concluded ſome Ship or other blown up.</p>
+            <p>
+               <hi>Sunday</hi> and <hi>Monday</hi> we made the beſt of our way towards our Port, with fair Winds, and fine Weather.</p>
+            <p>
+               <hi>Monday</hi> in the afternoon, about 3 a Clock, we ſaw the <hi>Welch Land,</hi> and two ſtrange Ships ahead of us; on which we tackt, for the reſt of our Fleet, and to get the Weathergage. About 6 we came up with 'em, and found 'em a Yacht and a Smack, who confirm'd the happy News we heard from <hi>Weymouth,</hi> of the Relief of <hi>Derry:</hi> They alſo told that Admiral <hi>Herbert</hi> and our Fleet, about Eighty Sail, were of off the old Head of <hi>Kingſale,</hi> whence they lately came, and were now again going to 'em.</p>
+            <p>In the evening we came up with ſome little Iſlands; and about 12 at night paſt the Biſhop and his Clerks, without any of all thoſe Bugbears <hi>Hickeringall</hi> talks of. We found 'em very peaceable Rocks; they let us all go by without touching us, though had we had a fancy to try hard-heads with 'em, 'tis ten to one we had got the worſt on 't.</p>
+            <p>
+               <hi>Thurſday</hi> we ſaw <hi>Bardley</hi> Iſland, and the main Land of <hi>Wales,</hi> and a parcel of Mountains, one would think high enough to break the Goats necks that clamber to the tops of 'em. In the evening we came up with <hi>Angleſey,</hi> whither in the night moſt of our Fleet ſtole away from us, and got to an Anchor in <hi>Beaumarys</hi> Bay.</p>
+            <p>
+               <hi>Wedneſday</hi> 14. We took a Pilot on board, got round the Sand-bank, and came to an Anchor in our Port of <hi>High-Lake.</hi> In working our Ship about to get her into the Harbour, the Wind being ſomewhat againſt us, one of our Men was beaten againſt the ſides of the Ship with a Rope, and taken up for dead, but he recovered, and is like to do well; all the misfortunes we yet met with in our Voyage.</p>
+            <p>They tell us here that Duke <hi>Schomberg</hi> went off for <hi>Ireland</hi> with a fair wind, on <hi>Munday</hi> laſt, with about 13000 men, and the reſt we find Shipping to follow him as faſt as poſſible. There is now with us at <hi>High<g ref="char:EOLhyphen"/>lake</hi> the <hi>Dartmouth</hi> Frigot, which fired againſt <hi>Kilmore,</hi> while relief went into <hi>Derry,</hi> there is upon the ſhore juſt ready to embark for <hi>Ireland</hi> my Lord <hi>Lucas</hi> his Regiment, and other Soldiers.</p>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Advertiſement.</head>
+            <p>☞ <hi>The Tragedies of Sin</hi> contemplated in the ruine of the Angels <hi>&amp;c.</hi> [by <hi>Stephen Jay</hi> Rector of <hi>Chinner</hi>] in the County of <hi>Oxon.,</hi>
+            </p>
+            <p>☞ There is alſo now (in a large octavo) publiſht <hi>The Bloody-Aſſizes</hi> or A compleat Hiſtory of the Lives, Actions, Tryals, Suf<g ref="char:EOLhyphen"/>ferings, Speeches, Deaths and Characters of all thoſe <hi>Excellent perſons</hi> who fell in the Weſt of <hi>England</hi> and elſewhere from the Death of Sir <hi>Edmund-bury Godfrey</hi> to this preſent time; with the Pictures of ſeveral of the chief of them in Copper Plates. To which is added the Life, Death and Character of <hi>George</hi> Lord <hi>Jefferies</hi> [Written by a perſon of great learning and piety. Print<g ref="char:EOLhyphen"/>ed by the order of ſeveral of their Relations, for <hi>John Dunton</hi> at the <hi>black Raven</hi> in the <hi>Poultrey.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Iohn Dunton</hi> at the <hi>Black Raven</hi> in the <hi>Poultrey.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
